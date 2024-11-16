@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://area-rugs-for-bedroom.github.io/sitemap.xml
